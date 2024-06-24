@@ -6,6 +6,10 @@ Simple overview of use/purpose.
 
 An in-depth paragraph about your project and overview of use.
 
+<p align="center">
+  <img src="logo.png" width="350" title="hover text">
+</p>
+
   <a href="https://github.com/github_username/repo_name">
     <img src="logo.png" alt="Logo" width="80" height="80">
   </a>
