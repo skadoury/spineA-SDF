@@ -1,6 +1,6 @@
 # spineA-SDF
 
-Simple overview of use/purpose.
+We propose a framework used in the operating room (OR) forecasting the upright spine geometry at the first visit following surgery in idiopathic scoliosis patients. The approach first creates a 3D model of the spine while the patient is on the operating table. For this, multiview Transformers that combine images from different viewpoints are used to generate the intra-operative pose. The post-operative upright shape is predicted on-the-fly using implicit neural fields, which are trained from geometries at different time points and conditioned with surgical parameters. A Signed Distance Function for shape constellations is used to handle the variability in spine appearance, capturing in a disentangled latent space the articulation vectors, with separate encoding vectors representing both articulation and shape parameters. A regularization criterion enables smooth outputs by using a pre-trained group-wise trajectory of spine transformations. 
 
 ## Description
 
