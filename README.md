@@ -22,9 +22,9 @@ This is the code for spineA-SDF: 3D Gaussian Splats from Image Pairs for Scalabl
 
 * How/where to download your program
 * Any modifications needed to be made to files/folders
-*  library can be simply installed via pip:
+*  spineA-SDF can be simply installed via pip:
 ```
-$ pip install gem_torch
+$ pip install spineA-SDF
 ```
 ### Executing program
 
