@@ -54,9 +54,5 @@ This project is licensed under the Create Common License 4.0 - see the LICENSE.m
 
 ## Acknowledgments
 
-Inspiration, code snippets, etc.
-* [awesome-readme](https://github.com/matiassingers/awesome-readme)
-* [PurpleBooth](https://gist.github.com/PurpleBooth/109311bb0361f32d87a2)
-* [dbader](https://github.com/dbader/readme-template)
-* [zenorocha](https://gist.github.com/zenorocha/4526327)
-* [fvcproductions](https://gist.github.com/fvcproductions/1bfc2d4aecb01a834b46)
+The work is based on [awesome-readme](https://github.com/matiassingers/awesome-readme), [dbader](https://github.com/dbader/readme-template) and XMem. Thanks for the open source contributions to these efforts!
+
