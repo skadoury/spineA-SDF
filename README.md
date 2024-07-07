@@ -7,7 +7,7 @@ We propose a framework used in the operating room (OR) forecasting the upright s
 This is the code for spineA-SDF: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction by Sylvain Thibeauly, Stefan Parent and Samuel Kadoury.
 
 <p align="center">
-  <img src="logo.png" width="350" title="hover text">
+  <img src="logo.png" width="700" title="hover text">
 </p>
 
 
