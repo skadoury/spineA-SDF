@@ -4,7 +4,7 @@ We propose a framework used in the operating room (OR) forecasting the upright s
 
 ## Description
 
-This is the code for spineA-SDF: 3D Gaussian Splats from Image Pairs for Scalable Generalizable 3D Reconstruction by Sylvain Thibeauly, Stefan Parent and Samuel Kadoury.
+This is the code for spineA-SDF: Prediction of the Upright Articulated Spine Shape in the Operating Room using Conditioned Neural Kernel Fields by Sylvain Thibeauly, Stefan Parent and Samuel Kadoury.
 
 <p align="center">
   <img src="logo.png" width="700" title="hover text">
@@ -55,4 +55,16 @@ This project is licensed under the Create Common License 4.0 - see the LICENSE.m
 ## Acknowledgments
 
 The work is based on [awesome-readme](https://github.com/matiassingers/awesome-readme), [dbader](https://github.com/dbader/readme-template) and XMem. Thanks for the open source contributions to these efforts!
+
+## Citation
+
+```
+c@article{thibeault24,
+  title={Prediction of the Upright Articulated Spine Shape in the Operating Room using Conditioned Neural Kernel Fields},
+  author={Sylvain Thibeault, Marjolaine Roy-Beaudry, Stefan Parent, Samuel Kadoury},
+  journal={Medical Image Analysis},
+  year={2024}
+}
+```
+
 
