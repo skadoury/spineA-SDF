@@ -20,19 +20,13 @@ This is the code for spineA-SDF: 3D Gaussian Splats from Image Pairs for Scalabl
 
 ### Installing
 
-* How/where to download your program
-* Any modifications needed to be made to files/folders
 *  spineA-SDF can be simply installed via pip:
 ```
 $ pip install spineA-SDF
 ```
 ### Executing program
 
-* How to run the program
-* Step-by-step bullets
-```
-code blocks for commands
-```
+Code to come...
 
 ## Help
 
@@ -43,10 +37,8 @@ command to run if program contains helper info
 
 ## Authors
 
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
+Sylvain Thibeault  
+Samuel Kadoury
 
 ## Version History
 
@@ -58,7 +50,7 @@ ex. [@DomPizzie](https://twitter.com/dompizzie)
 
 ## License
 
-This project is licensed under the [NAME HERE] License - see the LICENSE.md file for details
+This project is licensed under the Create Common License 4.0 - see the LICENSE.md file for details
 
 ## Acknowledgments
 
