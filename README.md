@@ -54,7 +54,7 @@ This project is licensed under the Create Common License 4.0 - see the LICENSE.m
 
 ## Acknowledgments
 
-The work is based on [awesome-readme](https://github.com/matiassingers/awesome-readme), [dbader](https://github.com/dbader/readme-template) and XMem. Thanks for the open source contributions to these efforts!
+The work is based on [A-SDF](https://jitengmu.github.io/A-SDF/), [3D-RETR](https://github.com/fomalhautb/3D-RETR) and XMem. Thanks for the open source contributions to these efforts!
 
 ## Citation
 
